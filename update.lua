@@ -6,7 +6,7 @@ local URLLoaderHandler = import("app/handler/URLLoaderHandler.lua")
 local json = import("app/library/cjson")
 
 update.isChecked = false
-
+111
 --自动更新界面
 local vData = {}
 local updateEngine = nil
